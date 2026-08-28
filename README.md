@@ -11,7 +11,7 @@
 ## الشهادات
 
 | # | الدورة | الجهة / البرنامج | أبرز ما تعكسه الشهادة | التحقق |
-|---:|---|---|---|---|---|
+|---:|---|---|---|---|
 | 1 | **Foundations of Project Management** | Google عبر Coursera — ضمن Google Project Management Professional Certificate | تأسيس قوي في مصطلحات إدارة المشاريع، أدوار مدير المشروع، دورة حياة المشروع، المنهجيات، الثقافة التنظيمية، وإدارة التغيير. | [تحقق Coursera](https://coursera.org/verify/ZAJLI2901NZR) |
 | 2 | **Project Initiation: Starting a Successful Project** | Google عبر Coursera — ضمن Google Project Management Professional Certificate | تحويل الفكرة إلى مشروع قابل للانطلاق من خلال تحديد الأهداف والنطاق ومعايير النجاح، إعداد ميثاق المشروع، تحليل أصحاب المصلحة، واختيار الموارد والأدوات المناسبة. | [تحقق Coursera](https://coursera.org/verify/9OT3241DWJ79) |
 | 3 | **Programming in Python** | Meta عبر Coursera | بناء أساس برمجي عملي يشمل صياغة Python، المتغيرات وأنواع البيانات، التحكم في التدفق، الدوال وهياكل البيانات، البرمجة كائنية التوجه، معالجة الأخطاء، والاختبارات الوحدوية. | [تحقق Coursera](https://coursera.org/verify/NO92SLVHDPJ1) |
